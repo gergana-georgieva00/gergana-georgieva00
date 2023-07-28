@@ -29,6 +29,9 @@ Pharmacy.👋
   <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg" width="40" height="40"/>&nbsp;
 </div>
 
+### :fire: My Stats :
+https://github-readme-streak-stats.herokuapp.com/?user=gergana-georgieva00
+
 <!--
 **gergana-georgieva00/gergana-georgieva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
