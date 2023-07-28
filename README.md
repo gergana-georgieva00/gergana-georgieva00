@@ -1,4 +1,4 @@
-### Hi there!
+### 👋 Hi there!
 <div align="center">
   <img src="https://media0.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif?cid=ecf05e47xqho4272s6bmha8irehtcy4vgmqktswtzpgc16kf&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="480" height="480"/>
 </div>
@@ -6,7 +6,7 @@
 I am a self-motivated C# Web Development
 graduate with practical experience and confidently working with ASP.NET MVC, MS SQL Server and Entity
 Framework. Has background in Medicine and
-Pharmacy.👋
+Pharmacy.
 
 🌱 I’m currently finishing my final course in SoftUni and also acquiring my Master's degree in Pharmacy.
 
