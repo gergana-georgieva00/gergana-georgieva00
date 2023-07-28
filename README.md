@@ -3,10 +3,9 @@ I am a self-motivated C# Web Development
 graduate with practical experience and confidently working with ASP.NET MVC, MS SQL Server and Entity
 Framework. Has background in Medicine and
 Pharmacy.👋
-[<div align="center">
-  <img src="https://giphy.com/embed/BferOKonYOspm28AiB" width="600" height="300"/>
-</div>](url)
-<iframe src="https://giphy.com/embed/Rs0JBoGpPxMAlnVc8y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/flow-productions-art-illustration-loop-Rs0JBoGpPxMAlnVc8y">via GIPHY</a></p>
+<div align="center">
+  <img src="https://giphy.com/gifs/computer-working-all-nighter-BferOKonYOspm28AiB" width="600" height="300"/>
+</div>
 
 🌱 I’m currently finishing my final course in SoftUni and also acquiring my Master's degree in Pharmacy.
 
