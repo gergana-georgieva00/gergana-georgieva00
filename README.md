@@ -5,7 +5,7 @@ Framework. Has background in Medicine and
 Pharmacy.👋
 
 <div align="center">
-  <img src="https://media0.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif?cid=ecf05e47xqho4272s6bmha8irehtcy4vgmqktswtzpgc16kf&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="500" height="400"/>
+  <img src="https://media0.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif?cid=ecf05e47xqho4272s6bmha8irehtcy4vgmqktswtzpgc16kf&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="480" height="480"/>
 </div>
 
 🌱 I’m currently finishing my final course in SoftUni and also acquiring my Master's degree in Pharmacy.
