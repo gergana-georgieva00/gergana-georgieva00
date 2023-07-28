@@ -4,7 +4,9 @@ graduate with practical experience and confidently working with ASP.NET MVC, MS 
 Framework. Has background in Medicine and
 Pharmacy.👋
 
-<image src="https://giphy.com/embed/Rs0JBoGpPxMAlnVc8y" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></image><p><a href="https://giphy.com/gifs/flow-productions-art-illustration-loop-Rs0JBoGpPxMAlnVc8y">via GIPHY</a></p>
+<div align="center">
+  <img src="https://media0.giphy.com/media/Rs0JBoGpPxMAlnVc8y/giphy.gif?cid=ecf05e47xqho4272s6bmha8irehtcy4vgmqktswtzpgc16kf&ep=v1_gifs_related&rid=giphy.gif&ct=g" width="600" height="300"/>
+</div>
 
 🌱 I’m currently finishing my final course in SoftUni and also acquiring my Master's degree in Pharmacy.
 
