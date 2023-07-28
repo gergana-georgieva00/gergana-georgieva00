@@ -9,15 +9,11 @@ Framework. Has background in Medicine and
 Pharmacy.👋
 
 🌱 I’m currently finishing my final course in SoftUni and also acquiring my Master's degree in Pharmacy.
+
+📫 How to reach me: 
 <div id="badges">
-  <a href="your-linkedin-URL">
+  <a href="https://www.linkedin.com/in/gergana-georgieva-434657262/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="your-youtube-URL">
-    <img src="https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
 </div>
 
@@ -31,7 +27,7 @@ Here are some ideas to get you started:
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about anything :)
-- 📫 How to reach me: 
+- 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
