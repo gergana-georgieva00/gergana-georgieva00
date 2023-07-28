@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there!
+I am a self-motivated C# Web Development
+graduate with practical experience and confidently working with ASP.NET MVC, MS SQL Server and Entity
+Framework. Has background in Medicine and
+Pharmacy.👋
 
 <!--
 **gergana-georgieva00/gergana-georgieva00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
